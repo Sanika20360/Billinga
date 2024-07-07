@@ -32,7 +32,7 @@ The Barcode Scanner app is a simple and efficient tool for scanning barcodes usi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/barcode-scanner.git
+    git clone https://github.com/Sanika20360/barcode-scanner.git
     cd barcode-scanner
     ```
 
@@ -59,22 +59,9 @@ We welcome contributions! Please follow these steps to contribute:
 1. **Fork the repository**: Click on the `Fork` button at the top right of the repository page.
 2. **Clone the repository**: Clone your fork to your local machine.
     ```bash
-    git clone https://github.com/yourusername/barcode-scanner.git
+    git clone https://github.com/Sanika20360/barcode-scanner.git
     ```
-3. **Create a new branch**: 
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-4. **Make your changes**: Add your new feature or fix a bug.
-5. **Commit your changes**: 
-    ```bash
-    git commit -m "Add your feature description"
-    ```
-6. **Push to the branch**: 
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-7. **Create a pull request**: Open a pull request on GitHub to merge your changes into the main branch.
+3. **Create a pull request**: Open a pull request on GitHub to merge your changes into the main branch.
 
 ## Troubleshooting
 
